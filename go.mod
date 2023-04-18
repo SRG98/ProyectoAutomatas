@@ -1,4 +1,4 @@
-module github.com/SRG98/ProyectoAutomatas.git
+module github.com/SRG98/ProyectoAutomatas
 
 go 1.20
 

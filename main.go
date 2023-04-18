@@ -2,8 +2,8 @@ package main
 
 import(
 "fmt"
-"github.com/SRG98/ProyectoAutomatas/contrladores"
-"github.com/SRG98/ProyectoAutomatas/vistas"
+"github.com/SRG98/ProyectoAutomatas/controllers"
+"github.com/SRG98/ProyectoAutomatas/views"
 )
 
 func main()  {
